@@ -1,4 +1,5 @@
-# Climate Forecasting and CO₂ Impact Analysis
+#  Global Land Temperature and CO2 Emission
+## Time Series Forecasting and Regression Analysis
 
 ## 📌 Project Overview
 Forecasting land temperature and analyzing the relationship between CO₂ emissions and temperature using SARIMA, LSTM, and Random Forest models.

@@ -10,7 +10,7 @@ Forecasting land temperature and analyzing the relationship between CO₂ emissi
 - Compare model performance using MSE and RMSE
 
 ## 📊 Dataset
-- **Climate Change: Earth Surface Temperature Data:** [[Source name]https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/data]
+- **Climate Change: Earth Surface Temperature Data:** [[Source name](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/data)]
 - **CO₂ Emissions:** [[Source name](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)]
 - Format: CSV files
 

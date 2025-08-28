@@ -24,7 +24,7 @@ Forecasting land temperature and analyzing the relationship between CO₂ emissi
 |--------------|---------|--------|
 | SARIMA       | 0.0999  | 0.3160 |
 | LSTM         | 0.1095  | 0.3309 |
-| Random Forest| 32.0152 | 5.6582 |
+| Random Forest| 24.1867 |4.9180|
 
 - SARIMA performed best for forecasting.
 - Random Forest showed weak correlation, suggesting CO₂ alone doesn't explain temperature changes.

@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 This project aims to forecast **global land temperature** and analyse its relationship with **CO₂ emissions** using time series and machine learning techniques.  
-Two datasets were obtained from **Kaggle** — *Global Land Temperature* and *CO₂ Emission* — to study long-term temperature trends and their potential connection to greenhouse gases.
+Two datasets were obtained from **Kaggle** *Global Land Temperature* and *CO₂ Emission* to study long-term temperature trends and their potential connection to greenhouse gases.
 
 The study is divided into:
 1. **Phase 1:** Temperature forecasting using SARIMA and LSTM.
